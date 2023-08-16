@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @g4t0vsudo sh -c 'echo "deb https://www.griddb.net/apt griddb/5.3 multiverse" >>  /etc/apt/sources.list.d/griddb.list'
+sudo sh -c 'echo "deb https://www.griddb.net/apt griddb/5.3 multiverse" >>  /etc/apt/sources.list.d/griddb.list'
+sudo sh -c 'echo "deb https://www.griddb.net/apt griddb/5.3 multiverse" >>  /etc/apt/sources.list.d/griddb.list'
+
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+g4t0v/g4t0v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
